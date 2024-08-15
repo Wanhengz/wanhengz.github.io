@@ -21,7 +21,7 @@ repository               : "Wanhengz/wanhengz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "homepage.png"
+  avatar           : "homepage.jpg"
   name             : "Wanheng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Biostatistics"
